@@ -26,7 +26,7 @@ class stack{
             }
             top--;
     }
-//Ye to int function hai
+//Ye to int function hai ,Return top element
     int Top(){
         if(top==-1){
         cout<<"Empty hai top"<<endl;
