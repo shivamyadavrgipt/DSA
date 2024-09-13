@@ -11,9 +11,6 @@ class Node{
         right=nullptr;
     }
 };
-void display(){
-    
-}
 int main(){
     Node* root=new Node(10);
     root->left=new Node(8);
